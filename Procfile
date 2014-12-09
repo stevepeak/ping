@@ -1,1 +1,1 @@
-worker: ping.py
+worker: python ping.py
