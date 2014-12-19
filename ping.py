@@ -12,4 +12,4 @@ if __name__ == '__main__':
             print 'GET %s' % url
             print '  HTTP %d' % res.status_code
       # sleep io
-      sleep(60 * 3)
+      sleep(60 * 30)
